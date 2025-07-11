@@ -1,9 +1,6 @@
-# todo-list-app
 A clean and functional To-Do List app built using HTML, CSS, and JavaScript with localStorage support.
-# todo-list-app
-A clean and functional To-Do List app built using HTML, CSS, and JavaScript with localStorage support.
-# 📝 To-Do List App
 
+# 📝 To-Do List App
 A clean and simple To-Do List web application built using **HTML, CSS, and JavaScript**.
 
 ---
@@ -32,13 +29,10 @@ Stay tuned for more updates!
 
 ---
 
-## 📂 Project Structure
-
----
 
 ## 🌐 Live Demo
 
-[🔗 View it live here](https://your-username.github.io/todo-list-app/)
+[🔗 View it live here](https://tanishsharma80055.github.io/todo-list-app/)
 
 ---
 
