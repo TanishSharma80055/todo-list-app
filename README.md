@@ -1,5 +1,3 @@
-A clean and functional To-Do List app built using HTML, CSS, and JavaScript with localStorage support.
-
 # 📝 To-Do List App
 A clean and simple To-Do List web application built using **HTML, CSS, and JavaScript**.
 
